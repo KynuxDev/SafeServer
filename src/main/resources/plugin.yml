@@ -1,0 +1,7 @@
+name: SafeServer
+version: '1.0'
+main: kynux.cloud.safeServer.SafeServer
+api-version: '1.21'
+load: STARTUP
+authors: [ Kynux ]
+website: https://kynux.cloud
